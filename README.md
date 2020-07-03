@@ -3,9 +3,11 @@ I have developed a full fledged Realtime Chat Application. I have used JavaScrip
 
 
 ##Setup:
+
 - Run ```npm i``` on both server and client ends to install nodemon package manager.
  
 - Run ```npm start``` for both client and server side to start the chat server.
 
 ##Run:
-[a link](http://localhost:3000/)
+
+[React Run](http://localhost:3000/)
