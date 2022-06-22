@@ -6,5 +6,3 @@ I have developed a full fledged Realtime Chat Application. I have used JavaScrip
 - Run ```npm i``` on both server and client ends to install nodemon package manager.
 - Run ```npm start``` for both client and server side to start the chat server.
 
-## Run
-[React Run](http://localhost:3000/)
